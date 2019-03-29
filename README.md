@@ -18,3 +18,4 @@ step5 npm test
 
 step6 Open the browser and input http://127.0.0.1:8081/index.html
 
+https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/socket/WebSocketSession.html
